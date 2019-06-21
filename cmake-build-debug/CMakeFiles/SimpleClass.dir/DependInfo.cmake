@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/h246632/CLionProjects/SimpleClass/bankacount.cxx" "/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/CMakeFiles/SimpleClass.dir/bankacount.cxx.o"
-  "/Users/h246632/CLionProjects/SimpleClass/main.cpp" "/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/CMakeFiles/SimpleClass.dir/main.cpp.o"
+  "/Users/h246632/CLionProjects/Bank_Account_Class/bankacount.cxx" "/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/CMakeFiles/SimpleClass.dir/bankacount.cxx.o"
+  "/Users/h246632/CLionProjects/Bank_Account_Class/main.cpp" "/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/CMakeFiles/SimpleClass.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug"/>
+				<Option working_dir="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug"/>
+				<Option working_dir="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug"/>
+				<Option working_dir="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SimpleClass">
-				<Option output="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/SimpleClass" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug"/>
+				<Option output="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/SimpleClass" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleClass"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleClass"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="SimpleClass/fast">
-				<Option output="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/SimpleClass" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug"/>
+				<Option output="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/SimpleClass" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,23 +73,23 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleClass/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleClass/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/h246632/CLionProjects/SimpleClass/bankacount.cxx">
+		<Unit filename="/Users/h246632/CLionProjects/Bank_Account_Class/bankacount.cxx">
 			<Option target="SimpleClass"/>
 		</Unit>
-		<Unit filename="/Users/h246632/CLionProjects/SimpleClass/bankacount.h">
+		<Unit filename="/Users/h246632/CLionProjects/Bank_Account_Class/bankacount.h">
 			<Option target="SimpleClass"/>
 		</Unit>
-		<Unit filename="/Users/h246632/CLionProjects/SimpleClass/main.cpp">
+		<Unit filename="/Users/h246632/CLionProjects/Bank_Account_Class/main.cpp">
 			<Option target="SimpleClass"/>
 		</Unit>
-		<Unit filename="/Users/h246632/CLionProjects/SimpleClass/CMakeLists.txt">
+		<Unit filename="/Users/h246632/CLionProjects/Bank_Account_Class/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

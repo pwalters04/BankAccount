@@ -1,4 +1,4 @@
-# Install script for directory: /Users/h246632/CLionProjects/SimpleClass
+# Install script for directory: /Users/h246632/CLionProjects/Bank_Account_Class
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

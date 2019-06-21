@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/h246632/CLionProjects/SimpleClass
+CMAKE_SOURCE_DIR = /Users/h246632/CLionProjects/Bank_Account_Class
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/h246632/CLionProjects/SimpleClass/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/SimpleClass.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/h246632/CLionProjects/SimpleClass/cmake-build-debug
 CMakeFiles/SimpleClass.dir/all:
 	$(MAKE) -f CMakeFiles/SimpleClass.dir/build.make CMakeFiles/SimpleClass.dir/depend
 	$(MAKE) -f CMakeFiles/SimpleClass.dir/build.make CMakeFiles/SimpleClass.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target SimpleClass"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target SimpleClass"
 .PHONY : CMakeFiles/SimpleClass.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/SimpleClass.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SimpleClass.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SimpleClass.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/h246632/CLionProjects/SimpleClass/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/h246632/CLionProjects/Bank_Account_Class/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SimpleClass.dir/rule
 
 # Convenience name for target.
