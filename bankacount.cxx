@@ -11,7 +11,7 @@ namespace DS_Assignment1
 {
     bankaccount::bankaccount(std::string name)
     {
-        balance=0;
+        balance=0.00;
         owner = name;
     }
 
@@ -31,5 +31,9 @@ namespace DS_Assignment1
     {
         owner = name;
         std::cout<< "Updated Owner: " << owner << std::endl;
+    }
+    void bankaccount::get_owner_info()
+    {
+         std::cout<<owner;
     }
 }
