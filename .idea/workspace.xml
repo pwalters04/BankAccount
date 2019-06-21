@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/bankacount.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="e#117#135#0" expanded="true" />
               </folding>
@@ -136,12 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560955756915</updated>
       <workItem from="1560955759753" duration="220000" />
-      <workItem from="1560965326423" duration="6278000" />
+      <workItem from="1560965326423" duration="6653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6498000" />
+    <option name="totallyTimeSpent" value="6873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -178,7 +178,7 @@
     <entry file="file://$PROJECT_DIR$/bankacount.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="e#117#135#0" expanded="true" />
           </folding>
